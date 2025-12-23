@@ -1,0 +1,5 @@
+<!-- File: courses.dtd -->
+<!ELEMENT courses (course+)>
+<!ELEMENT course (name, fee)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT fee (#PCDATA)>

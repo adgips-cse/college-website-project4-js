@@ -1,0 +1,14 @@
+<!-- File: courses.xml -->
+<?xml version="1.0"?>
+<!DOCTYPE courses SYSTEM "courses.dtd">
+
+<courses>
+    <course>
+        <name>CSE</name>
+        <fee>80000</fee>
+    </course>
+    <course>
+        <name>IT</name>
+        <fee>75000</fee>
+    </course>
+</courses>
